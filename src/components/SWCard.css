@@ -1,0 +1,30 @@
+body{
+    background-image: url(/src/media/space.jpg);
+    color: aliceblue;
+}
+
+.character-card{
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+    border: 2px solid #4f6100;
+    background-color: rgb(241, 238, 17);
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.character-info {
+    padding: 10px;
+}
+
+.character-info h2{
+    font-size: 22px;
+    margin-bottom: 5px;
+    color: #0e0a0a;
+}
+
+.character-info p{
+    font-size: 14px;
+    margin-bottom: 0px;
+    color: black;
+}
